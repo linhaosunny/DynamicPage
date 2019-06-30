@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'DynamicPage' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for DynamicPage
+  ### Swift部分的库
+     pod 'Kingfisher', '4.8.0'
+     pod 'SnapKit', '4.2.0'
+     pod 'SwiftyJSON', '5.0.0'
+     pod 'HandyJSON', '~> 5.0.0'
+
+
+     pod 'Alamofire', '4.8.2'
+     pod 'JSBridgeKit' , '0.1.8'
+     pod 'ESPullToRefresh', '2.9'
+
+end

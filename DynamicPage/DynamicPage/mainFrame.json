@@ -1,0 +1,36 @@
+{
+    "data": {
+        "tabbar" : {
+            "themeColor" : "",
+            "items" : [
+                {
+                    "icon_normal" : "https://gtms04.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico",
+                    "icon_select" : "https://gtms04.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico",
+                    "title" : "首页",
+                    "pageUrl": "mallHome"
+                },
+                {
+                    "icon_normal" : "https://gtms04.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico",
+                    "icon_select" : "https://gtms04.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico",
+                    "title" : "购物车",
+                    "pageUrl": "mallHome"
+                },
+                {
+                    "icon_normal" : "https://gtms04.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico",
+                    "icon_select" : "https://gtms04.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico",
+                    "title" : "订单",
+                    "pageUrl": "mallHome"
+                },
+                {
+                    "icon_normal" : "https://gtms04.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico",
+                    "icon_select" : "https://gtms04.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico",
+                    "title" : "消息",
+                    "pageUrl": "mallHome"
+                },
+            ]
+        },
+        "navgationbar" : {
+            "themeColor" : "",
+        }
+    }
+}

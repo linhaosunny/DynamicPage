@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.8.2)
+  - ESPullToRefresh (2.9)
+  - HandyJSON (5.0.0)
+  - JSBridgeKit (0.1.8)
+  - Kingfisher (4.8.0)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.2)
+  - ESPullToRefresh (= 2.9)
+  - HandyJSON (~> 5.0.0)
+  - JSBridgeKit (= 0.1.8)
+  - Kingfisher (= 4.8.0)
+  - SnapKit (= 4.2.0)
+  - SwiftyJSON (= 5.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ESPullToRefresh
+    - HandyJSON
+    - JSBridgeKit
+    - Kingfisher
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  ESPullToRefresh: ce058a36454a5032519cc9d8b45da217728cf104
+  HandyJSON: 992f2d661716d6a91de82d0056927bc7813b5770
+  JSBridgeKit: 5f50f363c9713769a47612c68f09afcabd32515e
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 862eb8735ac8d4e81881f6fa10ec200442d70d46
+
+COCOAPODS: 1.6.1

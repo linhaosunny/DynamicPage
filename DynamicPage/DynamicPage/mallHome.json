@@ -1,0 +1,374 @@
+{
+    "data": {
+        "cards": [
+            {
+                "layout":"LinerLayout",
+                "margin":[0.0,0.0],
+                "padding":[0.0],
+                "lineMargin": 10.0,
+                "layoutDirection": 0,
+                "elements":[
+                    {
+                        "type": "search",
+                        "padding": [0.0],
+                        "margin": [0.0],
+                        "height": 120.0,
+                    }
+                ]
+            },
+            {
+                "layout":"LinerLayout",
+                "margin":[0.0,0.0],
+                "padding":[0.0],
+                "lineMargin": 10.0,
+                "layoutDirection": 0,
+                "elements":[
+                    {
+                        "type": "banner",
+                        "padding": [0.0],
+                        "margin": [0.0],
+                        "height": 360.0,
+                        "bannerStyle": {
+                            "autoRun": true,
+                            "dotSize": 12.0,
+                            "dotMargin": 10.0
+                        },
+                        "elements": [
+                            {
+                                "type":"image",
+                                "jumpUrl":"app-mall://goods_detail?goods_id=23321",
+                                "imageUrl": "http://aimg8.dlszyht.net.cn/ev_user_module_content_tmp/2017_08_21/tmp1503293915_1524247_s.png"
+                            },
+                            {
+                                "type":"image",
+                                "jumpUrl":"https://www.wsy.com/mall.php?goodId=XXXX",
+                                "imageUrl": "http://aimg8.dlszyht.net.cn/ev_user_module_content_tmp/2017_08_21/tmp1503295596_1524247_s.png"
+                            },
+                            {
+                                "type":"image",
+                                "jumpUrl":"https://www.wsy.com/mall.php?goodId=XXXX",
+                                "imageUrl": "https://aimg8.dlssyht.cn/ev_user_module_content_tmp/2019_05_08/tmp1557302586_1524247_s.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "layout":"ShopWindowLayout",
+                "margin":[10.0,10.0],
+                "columnMargin": 10.0,
+                "lineMargin": 10.0,
+                "elements": [
+                    {
+                        "type": "image",
+                        "jumpUrl": "app-mall://goods_detail?goods_id=23321",
+                        "imageUrl": "http://aimg8.dlszyht.net.cn/ev_user_module_content_tmp/2017_08_21/tmp1503298994_1524247_s.png"
+                    },
+                    {
+                        "type": "image",
+                        "jumpUrl": "app-mall://goods_detail?goods_id=01010",
+                        "imageUrl": "http://aimg8.dlszyht.net.cn/module_pic_con/800_1500/223/444223_1524247_1503299202_1377.png?x-oss-process=image/resize,m_lfit,w_281,h_155,limit_0"
+                    },
+                    {
+                        "type": "image",
+                        "jumpUrl": "app-mall://goods_detail?goods_id=23321",
+                        "imageUrl": "http://aimg8.dlszyht.net.cn/module_pic_con/800_1500/223/444224_1524247_1503299330_9200.png?x-oss-process=image/resize,m_lfit,w_281,h_155,limit_0"
+                    }
+                ]
+            },
+            {
+                "layout":"LinerLayout",
+                "margin":[0.0,0.0],
+                "padding":[0.0],
+                "lineMargin": 10.0,
+                "layoutDirection": 0,
+                "elements":[
+                    {
+                        "type": "image",
+                        "jumpUrl":"app-mall://goods_detail?goods_id=23321",
+                        "imageUrl": "http://aimg8.dlszyht.net.cn/ev_user_module_content_tmp/2017_08_21/tmp1503298665_1524247_s.jpg",
+                        "height": 100.0,
+                    }
+                ]
+            },
+            {
+                "layout":"FlowLayout",
+                "margin":[10.0,10.0],
+                "padding":[0.0],
+                "column": 2,
+                "columnMargin": 10,
+                "lineMargin": 10,
+                "elements": [
+                    {
+                        "type":"goods",
+                        "margin":[0.0],
+                        "padding":[0.0],
+                        "jumpUrl": "app-mall://goods_detail?goods_id=23302",
+                        "elements":[
+                            {
+                                "type": "image",
+                                "imageUrl":"https://gw.alicdn.com/tps/TB1Nin9JFXXXXbXaXXXXXXXXXXX-224-224.png"
+                            },
+                            {
+                                "type": "text",
+                                "text":"全新上市水果 优质三农提供 新鲜品质柠檬...",
+                                "textStyle": {
+                                    "type" : "title",
+                                    "fontSize": 26.0,
+                                    "color": "#333333"
+                                }
+                            },
+                            {
+                                "type":"text",
+                                "text":"￥9.00",
+                                "textStyle": {
+                                    "type" : "price",
+                                    "color": "#ED0535",
+                                    "fontSize": 30.0
+                                }
+                            },
+                            {
+                                "type":"text",
+                                "text":"￥15.00",
+                                "textStyle": {
+                                    "type" : "deletePrice",
+                                    "color": "#B2B2B2",
+                                    "fontSize": 24.0
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type":"goods",
+                        "margin":[0.0],
+                        "padding":[0.0],
+                        "jumpUrl": "app-mall://goods_detail?goods_id=23321",
+                        "elements":[
+                            {
+                                "type":"image",
+                                "imageUrl":"https://gd2.alicdn.com/imgextra/i2/2855005074/O1CN01mmlJtm1nLw9FvLGSF_!!2855005074.jpg_400x400.jpg"
+                            },
+                            {
+                                "type":"text",
+                                "text":"现摘现发钱排三华李新鲜水果酸甜红心李孕妇水果三华李5斤装包邮",
+                                "textStyle": {
+                                    "type" : "title",
+                                    "fontSize": 26.0,
+                                    "color": "#333333"
+                                }
+                            },
+                            {
+                                "type":"text",
+                                "text":"￥39.90",
+                                "textStyle": {
+                                    "type" : "price",
+                                    "color": "#ED0535",
+                                    "fontSize": 30.0
+                                }
+                            },
+                            {
+                                "type":"text",
+                                "text":"￥43.50",
+                                "textStyle": {
+                                    "type" : "deletePrice",
+                                    "color": "#B2B2B2",
+                                    "fontSize": 24.0
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type":"goods",
+                        "margin":[0.0],
+                        "padding":[0.0],
+                        "jumpUrl": "app-mall://goods_detail?goods_id=23321",
+                        "elements":[
+                            {
+                                "type": "image",
+                                "imageUrl":"https://gd4.alicdn.com/imgextra/i1/0/O1CN01hk6Bwk1nLw9T5GOLb_!!0-item_pic.jpg_400x400.jpg"
+                            },
+                            {
+                                "type": "text",
+                                "text": "石榴番芭乐水果白心珍珠番石榴五斤现摘现发孕妇新鲜水果包邮石榴",
+                                "textStyle": {
+                                    "type" : "title",
+                                    "fontSize": 26.0,
+                                    "color": "#333333"
+                                }
+                            },
+                            {
+                                "type":"text",
+                                "text":"￥27.80",
+                                "textStyle": {
+                                    "type" : "price",
+                                    "color": "#ED0535",
+                                    "fontSize": 30.0
+                                }
+                            },
+                            {
+                                "type":"text",
+                                "text":"￥33.00",
+                                "textStyle": {
+                                    "type" : "deletePrice",
+                                    "color": "#B2B2B2",
+                                    "fontSize": 24.0
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type":"goods",
+                        "margin":[0.0],
+                        "padding":[0.0],
+                        "jumpUrl": "app-mall://goods_detail?goods_id=23321",
+                        "elements":[
+                            {
+                                "type":"image",
+                                "imageUrl":"https://img.alicdn.com/imgextra/i1/3322916880/O1CN01w7viBM20h5R9GDsOm_!!3322916880.jpg_430x430q90.jpg"
+                            },
+                            {
+                                "type":"text",
+                                "text":"6斤泰国黑金刚莲雾 当季孕妇新鲜水果热带雾莲果5 海南特产应季3",
+                                "textStyle": {
+                                    "type" : "title"
+                                }
+                            },
+                            {
+                                "type":"text",
+                                "text":"￥69.80",
+                                "textStyle": {
+                                    "type" : "price",
+                                    "color": "#ED0535",
+                                    "fontSize": 30.0
+                                }
+                            },
+                            {
+                                "type":"text",
+                                "text":"￥168.00",
+                                "textStyle": {
+                                    "type" : "deletePrice",
+                                    "color": "#B2B2B2",
+                                    "fontSize": 24.0
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "layout": "LinerLayout",
+                "margin": [10.0,10.0],
+                "lineHeight": 200,
+                "columnScreenWidthRatio": 0.33,
+                "columnMargin": 10.0,
+                "lineMargin": 10.0,
+                "layoutDirection": 1,
+                "elements": [
+                    {
+                        "type": "image",
+                        "jumpUrl": "app-mall://goods_detail?goods_id=23321",
+                        "imageUrl": "https://img.alicdn.com/imgextra/i1/4263299485/O1CN01GIG0KJ2JwBCa5ub1N_!!4263299485.jpg_430x430q90.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "jumpUrl": "app-mall://goods_detail?goods_id=23321",
+                        "imageUrl": "https://img.alicdn.com/imgextra/i2/3871253083/TB2nBMZf98YBeNkSnb4XXaevFXa_!!3871253083.png_430x430q90.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "jumpUrl": "app-mall://goods_detail?goods_id=23321",
+                        "imageUrl": "https://gd1.alicdn.com/imgextra/i1/3256643378/O1CN019w8ufs1apAQve5aMZ_!!3256643378.jpg_400x400.jpg"
+                    },
+                    
+                ]
+            },
+            {
+                "layout":"LinerLayout",
+                "margin":[0.0,0.0],
+                "padding":[0.0],
+                "lineMargin": 10.0,
+                "layoutDirection": 0,
+                "elements":[
+                    {
+                        "type":"goods",
+                        "margin":[0.0],
+                        "padding":[0.0],
+                        "jumpUrl": "app-mall://goods_detail?goods_id=23321",
+                        "elements":[
+                            {
+                                "type": "image",
+                                "imageUrl":"https://gw.alicdn.com/tps/TB1Nin9JFXXXXbXaXXXXXXXXXXX-224-224.png"
+                            },
+                            {
+                                "type": "text",
+                                "text":"全新上市水果 优质三农提供 新鲜品质柠檬...",
+                                "textStyle": {
+                                    "type" : "title",
+                                    "fontSize": 26.0,
+                                    "color": "#333333"
+                                }
+                            },
+                            {
+                                "type":"text",
+                                "text":"￥9.80",
+                                "textStyle": {
+                                    "type" : "price",
+                                    "color": "#ED0535",
+                                    "fontSize": 30.0
+                                }
+                            },
+                            {
+                                "type":"text",
+                                "text":"￥13.80",
+                                "textStyle": {
+                                    "type" : "deletePrice",
+                                    "color": "#B2B2B2",
+                                    "fontSize": 24.0
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type":"goods",
+                        "margin":[0.0],
+                        "padding":[0.0],
+                        "jumpUrl": "app-mall://goods_detail?goods_id=23321",
+                        "elements":[
+                            {
+                                "type": "image",
+                                "imageUrl":"https://gd3.alicdn.com/imgextra/i3/2200763500262/O1CN0157wrEk1Do2HbBEiM0_!!2200763500262.jpg_400x400.jpg"
+                            },
+                            {
+                                "type": "text",
+                                "text":"现货新鲜妃子笑荔枝当季水果现摘现发超甜三月红4斤装当天发货",
+                                "textStyle": {
+                                    "type" : "title",
+                                    "fontSize": 26.0,
+                                    "color": "#333333"
+                                }
+                            },
+                            {
+                                "type":"text",
+                                "text":"￥49.80",
+                                "textStyle": {
+                                    "type" : "price",
+                                    "color": "#ED0535",
+                                    "fontSize": 30.0
+                                }
+                            },
+                            {
+                                "type":"text",
+                                "text":"￥68.00",
+                                "textStyle": {
+                                    "type" : "deletePrice",
+                                    "color": "#B2B2B2",
+                                    "fontSize": 24.0
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+        ]
+    }
+}
